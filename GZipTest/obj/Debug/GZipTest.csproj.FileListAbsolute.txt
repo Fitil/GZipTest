@@ -1,0 +1,12 @@
+c:\users\alucard\documents\visual studio 2012\Projects\GZipTest\GZipTest\bin\Debug\GZipTest.exe
+c:\users\alucard\documents\visual studio 2012\Projects\GZipTest\GZipTest\bin\Debug\GZipTest.pdb
+c:\users\alucard\documents\visual studio 2012\Projects\GZipTest\GZipTest\obj\Debug\GZipTest.exe
+c:\users\alucard\documents\visual studio 2012\Projects\GZipTest\GZipTest\obj\Debug\GZipTest.pdb
+C:\Users\Alucard\documents\visual studio 2012\Projects\GZipTest\GZipTest\bin\Debug\GZipTest.exe.config
+C:\Users\Alucard\Documents\Visual Studio 2012\Projects\GZipTest\GZipTest\bin\Debug\System.Configuration.dll
+C:\Users\Alucard\Documents\Visual Studio 2012\Projects\GZipTest\GZipTest\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Alucard\Documents\Visual Studio 2012\Projects\GZipTest\GZipTest\bin\Debug\System.Data.dll
+C:\Users\Alucard\Documents\Visual Studio 2012\Projects\GZipTest\GZipTest\bin\Debug\System.dll
+C:\Users\Alucard\Documents\Visual Studio 2012\Projects\GZipTest\GZipTest\bin\Debug\System.Xml.dll
+C:\Users\Alucard\Documents\Visual Studio 2012\Projects\GZipTest\GZipTest\bin\Debug\System.Xml.Linq.dll
+C:\Users\Alucard\documents\visual studio 2012\Projects\GZipTest\GZipTest\obj\Debug\GZipTest.csprojResolveAssemblyReference.cache
